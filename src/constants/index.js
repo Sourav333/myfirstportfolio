@@ -77,8 +77,6 @@ export const myProjects = [
       "I developed a smart resume evaluation tool designed to help job seekers optimize their resumes for ATS (Applicant Tracking Systems). In today’s competitive job market, it’s essential to ensure your resume matches the job description effectively, and this project aims to automate that process with high accuracy.",
     subDescription: [
       "🧠 AI-Driven Analysis: Powered by Google’s Gemini AI to assess resumes and compare them against job descriptions in the tech field, software engineering, data science, and big data engineering.",
-      "📝 PDF Resume Parsing: Converts resume PDFs into text for analysis.",
-      "📊 ATS Compatibility: Evaluates job description match percentages, identifies missing keywords, and offers personalized recommendations.",
       "💡 Streamlined Feedback: Provides strengths, weaknesses, and skill gap analysis to improve resumes for better job match success.",
       "📦 Dockerized for Easy Deployment: A Docker image was created for seamless deployment, ensuring that the application can be easily run and scaled across different environments."
     ],
@@ -114,12 +112,9 @@ export const myProjects = [
     description:
       "🎯 What is it? A smart Streamlit-powered tool designed to boost your coding productivity by providing real-time code suggestions, optimizations, and quality analysis.",
     subDescription: [
-      "Supports Multiple Languages: Works with Python, Java, and TypeScript 💻",
       "Instant Code Suggestions: Get live code completion using OpenAI's GPT-3.5 API 🤖",
       "Code Quality Analysis: Receive tips on improving your code, from adding output statements to breaking down lengthy functions 📝",
       "Download Your Code: Download your optimized code snippets with a single click 📥",
-      "User-Friendly Interface: Easy-to-use, with example snippets and placeholder code to kickstart your coding session 🎯",
-      "💡 Whether you're working on a project or learning a new language, this tool helps you save time and enhance your coding experience."
     ],
     href: "",
     logo: "",
@@ -156,8 +151,6 @@ export const myProjects = [
       "Integrated FAISS vector database for high-speed document retrieval.",
       "Harnessed ArxivAPIWrapper and WikipediaAPIWrapper to ensure real-time access to research papers and knowledge databases.",
       "Built a dynamic agent system using LangChain's Agent Executor, which enables precise information retrieval by interacting with diverse tools in real-time.",
-      "Incorporated Google Colab and OpenAI APIs for efficient deployment and experimentation.",
-      "This solution streamlines information retrieval across academic research and general knowledge, positioning it as an indispensable tool for users seeking well-rounded, multi-source insights."
     ],
     href: "",
     logo: "",
