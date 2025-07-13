@@ -227,7 +227,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/sourav-nandi-363975157/",
+    href: "https://www.linkedin.com/in/souravnandi13/",
     icon: "/assets/socials/linkedIn.svg",
   }
 ];
