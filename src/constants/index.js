@@ -39,10 +39,7 @@ export const myProjects = [
     description:
       "This project implements a multi-functional chatbot capable of handling diverse user queries by integrating multiple tools using LangChain and an agentic framework. It leverages modern language models to reason over tools such as web search, arXiv, Wikipedia, Python execution, and document interaction. The chatbot can autonomously select the appropriate tool based on user input, making it a powerful assistant for research, development, and general-purpose AI tasks.",
     subDescription: [
-      "Automatically selects the right tool for the query.",
-      "Supports structured output through agents or chains.",
-      "Integrates sources like arXiv, Wikipedia, and web scraping.",
-      "Executes code or math in Python through a REPL tool",
+
     ],
     href: "",
     logo: "",
@@ -76,9 +73,6 @@ export const myProjects = [
     description:
       "I developed a smart resume evaluation tool designed to help job seekers optimize their resumes for ATS (Applicant Tracking Systems). In today’s competitive job market, it’s essential to ensure your resume matches the job description effectively, and this project aims to automate that process with high accuracy.",
     subDescription: [
-      "🧠 AI-Driven Analysis: Powered by Google’s Gemini AI to assess resumes and compare them against job descriptions in the tech field, software engineering, data science, and big data engineering.",
-      "💡 Streamlined Feedback: Provides strengths, weaknesses, and skill gap analysis to improve resumes for better job match success.",
-      "📦 Dockerized for Easy Deployment: A Docker image was created for seamless deployment, ensuring that the application can be easily run and scaled across different environments."
     ],
     href: "",
     logo: "",
@@ -148,9 +142,7 @@ export const myProjects = [
     description:
       "Developed a sophisticated AI-powered Q&A system leveraging multiple data sources like Wikipedia, Arxiv, and LangSmith documentation, ensuring high-accuracy responses to complex queries. The system utilizes LangChain, OpenAI GPT-3.5, and FAISS vector stores to create a robust knowledge retrieval pipeline, making it highly effective in retrieving and summarizing relevant information from diverse platforms.",
     subDescription: [
-      "Integrated FAISS vector database for high-speed document retrieval.",
-      "Harnessed ArxivAPIWrapper and WikipediaAPIWrapper to ensure real-time access to research papers and knowledge databases.",
-      "Built a dynamic agent system using LangChain's Agent Executor, which enables precise information retrieval by interacting with diverse tools in real-time.",
+     
     ],
     href: "",
     logo: "",
@@ -186,7 +178,6 @@ export const myProjects = [
     subDescription: [
       "🔍 Hybrid Search: Combining dense and sparse retrieval techniques using BM25 and HuggingFace sentence transformers for precise query results.",
       "🛠️ Advanced NLP Processing: Implementing NLTK for text preprocessing (stopword removal, lemmatization) to enhance data quality and retrieval accuracy.",
-      "📊 Custom Embeddings: Using BM25 encoding for sparse vector embeddings and Sentence Transformers for dense embeddings, achieving a balance between semantic and keyword search.",
       "💡 Efficient Query Results: Optimizing the system to deliver accurate, high-quality search responses across diverse data sources.",
     ],
     href: "",
