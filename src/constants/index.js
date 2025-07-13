@@ -46,7 +46,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/langgraph.jpeg",
+    image: "/assets/projects/cropped-langgraph.jpeg",
     tags: [
       {
         id: 1,
@@ -84,7 +84,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/ats.jpeg",
+    image: "/assets/projects/cropped-ats.jpeg",
     tags: [
       {
         id: 1,
@@ -123,7 +123,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/code.jpeg",
+    image: "/assets/projects/cropped-code.jpeg",
     tags: [
       {
         id: 1,
@@ -161,7 +161,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/advance.jpeg",
+    image: "/assets/projects/cropped-advance.jpeg",
     tags: [
       {
         id: 1,
@@ -198,7 +198,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/hybrid.jpeg",
+    image: "/assets/projects/cropped-hybrid.jpeg",
     tags: [
       {
         id: 1,
