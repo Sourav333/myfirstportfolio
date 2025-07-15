@@ -19,13 +19,11 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Sourav Nandi</p>
             <p className="subtext">
-            Generative AI Developer with 4+ years of IT experience, including 2 years
-              specializing in Generative AI. Skilled in AI algorithms, transformers,
-              LLMs, deep learning, and Agentic, I excel at transforming business needs into
-              AI-powered solutions. My expertise spans AI-driven automation, text and
-              image generation, and enhancing customer experiences to drive operational
-              efficiency. Passionate about leveraging AI to optimize workflows and
-              deliver innovative, scalable solutions.
+            Generative AI Developer | AI Solutions Architect | 4+ YOE in IT | 2+ YOE in GenAI
+            Innovative AI Developer with 4+ years in IT, including 2+ years in Generative AI. 
+            Skilled in LLMs, Transformers, Deep Learning, and Agent-based systems.
+            Proven track record of building GenAI solutions for automation, content generation (text/image), 
+            and customer experience enhancement. Passionate about transforming business problems into intelligent, scalable AI solutions.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
