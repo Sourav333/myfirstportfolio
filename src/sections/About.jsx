@@ -106,8 +106,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Tech Stack</p>
             <p className="subtext">
-            My expertise spans across modern languages, frameworks, and AI tools empowering me to build intelligent, scalable, and production-ready applications. 
-            From model fine-tuning to full-stack deployment, I bring ideas to life with code.
+           I specialize in modern languages, frameworks, and AI tools to build intelligent, scalable, and production-ready applications. From model fine-tuning to full-stack deployment, I turn ideas into impactful solutions through code.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
