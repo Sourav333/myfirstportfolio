@@ -37,7 +37,7 @@ export const myProjects = [
     id: 2,
     title: "Smart Multi-Tool Chatbot with LangGraph",
     description:
-      "This project implements a multi-functional chatbot capable of handling diverse user queries by integrating multiple tools using LangChain and an agentic framework. It leverages modern language models to reason over tools such as web search, arXiv, Wikipedia, Python execution, and document interaction. The chatbot can autonomously select the appropriate tool based on user input, making it a powerful assistant for research, development, and general-purpose AI tasks.",
+      "Built a multi-functional AI chatbot using LangChain and an agentic framework that intelligently selects tools like web search, Wikipedia, arXiv, and Python REPL to answer diverse user queries. Designed for research, development, and general-purpose tasks with structured output and seamless tool integration.",
     subDescription: [
 
     ],
@@ -71,8 +71,10 @@ export const myProjects = [
     id: 3,
     title: "SMART ATS SYSTEM",
     description:
-      "I developed a smart resume evaluation tool designed to help job seekers optimize their resumes for ATS (Applicant Tracking Systems). In today’s competitive job market, it’s essential to ensure your resume matches the job description effectively, and this project aims to automate that process with high accuracy.",
-    subDescription: [
+      "Developed an AI-powered resume evaluation tool to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). The system uses Google’s Gemini AI for analyzing resumes against job descriptions in tech roles and provides personalized feedback.",
+    subDescription: ["AI-driven JD-resume match analysis",
+                     "PDF parsing & keyword gap detection",
+                     "Skill gap, strength, and ATS-compatibility reports"
     ],
     href: "",
     logo: "",
