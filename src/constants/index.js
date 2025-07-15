@@ -106,7 +106,7 @@ export const myProjects = [
     id: 4,
     title: "Enhance Your Coding Experience: Meet the Code Completion Assistant",
     description:
-      "🎯 What is it? A smart Streamlit-powered tool designed to boost your coding productivity by providing real-time code suggestions, optimizations, and quality analysis.",
+      "A smart Streamlit-powered coding assistant that enhances productivity through real-time suggestions and code analysis.",
     subDescription: [
       "Instant Code Suggestions: Get live code completion using OpenAI's GPT-3.5 API 🤖",
       "Code Quality Analysis: Receive tips on improving your code, from adding output statements to breaking down lengthy functions 📝",
@@ -142,9 +142,10 @@ export const myProjects = [
     id: 5,
     title: "Advanced RAG Q&A System with Multiple Data Sources Integration",
     description:
-      "Developed a sophisticated AI-powered Q&A system leveraging multiple data sources like Wikipedia, Arxiv, and LangSmith documentation, ensuring high-accuracy responses to complex queries. The system utilizes LangChain, OpenAI GPT-3.5, and FAISS vector stores to create a robust knowledge retrieval pipeline, making it highly effective in retrieving and summarizing relevant information from diverse platforms.",
-    subDescription: [
-     
+      "Built an advanced question-answering system using LangChain, GPT-3.5, and FAISS for accurate, multi-source information retrieval. It integrates Wikipedia, ArXiv, and LangSmith docs, delivering precise answers to complex queries.",
+    subDescription: ["ast retrieval via FAISS vector DB",
+                     "LangChain Agent Executor for smart tool selection",
+                     "Deployed using Google Colab & OpenAI APIs"
     ],
     href: "",
     logo: "",
@@ -176,11 +177,12 @@ export const myProjects = [
     id: 6,
     title: "Hybrid Search using langchain",
     description:
-      "Hybrid Search System integrating LangChain and Pinecone",
+      "Developing a hybrid search engine using LangChain and Pinecone, combining semantic (dense) and keyword-based (sparse) retrieval for precise results.",
     subDescription: [
-      "🔍 Hybrid Search: Combining dense and sparse retrieval techniques using BM25 and HuggingFace sentence transformers for precise query results.",
-      "🛠️ Advanced NLP Processing: Implementing NLTK for text preprocessing (stopword removal, lemmatization) to enhance data quality and retrieval accuracy.",
-      "💡 Efficient Query Results: Optimizing the system to deliver accurate, high-quality search responses across diverse data sources.",
+      "🔍 Hybrid retrieval with BM25 & Sentence Transformers",
+      "🛠️ NLP preprocessing via NLTK (stopword removal, lemmatization)",
+      "📊 Custom embeddings for balanced search accuracy",
+      "⚡ Optimized for high-quality results across varied data"
     ],
     href: "",
     logo: "",
